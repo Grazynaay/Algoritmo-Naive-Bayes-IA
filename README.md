@@ -1,4 +1,4 @@
-# Algoritmo Naive Bayes
+# Algoritmo Naive Bayes - IA
 
 Projeto desenvolvido para a disciplina de Inteligência Artificial da UFT.
 
@@ -13,4 +13,21 @@ Projeto desenvolvido para a disciplina de Inteligência Artificial da UFT.
 
 📄 Relatório Final:
 📊 Slides da Apresentação:
+
+
+## Bases de Dados
+- Iris Dataset
+- Breast Cancer Wisconsin Diagnostic
+
+## Estrutura
+
+- data/: bases de dados
+- src/: código-fonte
+- main.py: execução principal
+
+## Como executar
+
+```bash
+pip install -r requirements.txt
+python main.py
 
