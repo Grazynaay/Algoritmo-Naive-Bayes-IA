@@ -1,2 +1,16 @@
-# Algoritimo-Naive-Bayes-
-Projeto acadêmico de Inteligência Artificial utilizando o algoritmo Naive Bayes para classificação supervisionada de dados.
+# Algoritmo Naive Bayes
+
+Projeto desenvolvido para a disciplina de Inteligência Artificial da UFT.
+
+## Integrantes
+
+- Arthur Bispo
+- Samuel 
+- Grazyelle Bento
+- Matheus Henrique
+
+## Documentação
+
+📄 Relatório Final:
+📊 Slides da Apresentação:
+
