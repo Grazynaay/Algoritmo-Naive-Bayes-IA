@@ -11,7 +11,7 @@ Projeto desenvolvido para a disciplina de Inteligência Artificial da UFT.
 
 ## Documentação
 
-📄 Relatório Final:
+📄 Relatório Final: https://drive.google.com/file/d/1BBNMzsR6_9Bi_xE5r7wa1XF5NEz4rjAY/view?usp=drive_link
 
 📊 Slides da Apresentação: https://canva.link/idt6t1l7lmqp3d4
 
